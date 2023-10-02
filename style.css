@@ -24,10 +24,6 @@ body
     background:#3498db;
 }
 
-img {
-  width: 150px
-}
-
 .center {
   display: block;
   margin-left: auto;
@@ -35,20 +31,11 @@ img {
   width: 50%;
 }
 
-img {
-    width: 100%;
-    height: 300px;
-    object-fit: cover;
-    object-position: bottom;
+.responsive {
+    width: 50%;
+    height: auto;
   }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
   
-}
 h1
 {
     color:rgba(0,0,0,.75);
