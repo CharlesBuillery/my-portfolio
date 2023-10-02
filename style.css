@@ -36,7 +36,7 @@ img {
 }
 
 #bordering {
-  border-image: url(cute.jpg) 5px;
+  border-image: url(cute.jpg) 10px;
 }
 
 .center {
